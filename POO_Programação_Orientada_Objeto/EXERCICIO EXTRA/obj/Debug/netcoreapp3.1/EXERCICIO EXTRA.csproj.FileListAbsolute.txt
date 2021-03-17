@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.exe
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.deps.json
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.runtimeconfig.json
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.dll
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\bin\Debug\netcoreapp3.1\EXERCICIO EXTRA.pdb
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.AssemblyInfo.cs
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.dll
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.pdb
+C:\Users\guilh\Desktop\EXERCICIO EXTRA\obj\Debug\netcoreapp3.1\EXERCICIO EXTRA.genruntimeconfig.cache

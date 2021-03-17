@@ -1,0 +1,43 @@
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfo.cs
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.exe
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.deps.json
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.json
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfo.cs
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\EXERCICIOS 18 11\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.genruntimeconfig.cache
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.exe
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.deps.json
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.json
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfo.cs
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.exe
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.deps.json
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.json
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\bin\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.dll
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.pdb
+C:\Users\guilh\Desktop\Projetos Senai\C#\EXERCICÍO 4\obj\Debug\netcoreapp3.1\EXERCICIOS 18 11.genruntimeconfig.cache

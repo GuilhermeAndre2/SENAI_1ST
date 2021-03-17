@@ -1,0 +1,26 @@
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.exe
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.deps.json
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.runtimeconfig.json
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.dll
+C:\Users\guilh\Desktop\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.pdb
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.AssemblyInfo.cs
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.dll
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.pdb
+C:\Users\guilh\Desktop\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.genruntimeconfig.cache
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.exe
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.deps.json
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.runtimeconfig.json
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.dll
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\bin\Debug\netcoreapp3.1\POO_Exercicio Extra.pdb
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.AssemblyInfo.cs
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.dll
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.pdb
+C:\Users\guilh\Desktop\POO_Exercicios Extras\POO_Exercicio 1\obj\Debug\netcoreapp3.1\POO_Exercicio Extra.genruntimeconfig.cache
